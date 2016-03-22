@@ -1,7 +1,7 @@
 1 - authentication screen mockups
 =================================
 
-![Authentication-flow](/Specs/screens/authentication/flow.png)
+![Authentication-flow](/flow.png)
 
 Functional stories
 ------------------
